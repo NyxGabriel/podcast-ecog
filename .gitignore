@@ -12,3 +12,5 @@
 !notebooks/*py
 !notebooks/*ipynb
 !notebooks/*mplstyle
+
+venv/
